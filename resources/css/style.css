@@ -3,17 +3,25 @@ html {
   font-family: Verdana;
   background-color: black;
   text-align: center;
+  color: white;
 }
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
 }
 .download {
   color: aquamarine;
   font-size: 16px;
 }
-video {
-  background-color: black;
+.dude {
+  font-weight: 300;
+  font-size: 42px;
+}
+#copyright {
+  text-align: right;
+  color: gray;
+}
+#description {
+  font-size: 21px;
+  color: gray;
 }
